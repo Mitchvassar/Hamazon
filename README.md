@@ -23,4 +23,4 @@ And follow the screenshots below!
 
 ![Imgur](https://i.imgur.com/qC048Hu.png)
 
-##And that's it! Items are ordered, total is given, and you're done!
+## And that's it! Items are ordered, total is given, and you're done!
